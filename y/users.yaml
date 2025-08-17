@@ -1,0 +1,202 @@
+amanda:
+  name: amanda
+  color: '#046307'
+  texture: ../assets/textures/wall1.jpg
+  blendMode: overlay
+  imgKey: amanda
+  games:
+    setgame:
+      level: null
+    button96:
+      handicap: 3
+    bluff:
+      strategy: random
+    nations:
+      strategy: random
+    aristo:
+      level: 7
+    spotit:
+      level: 7
+    ferro:
+      strategy: random
+annabel:
+  name: annabel
+  color: '#f07f7f'
+  imgKey: annabel
+  games:
+    setgame:
+      level: 7
+    button96:
+      handicap: null
+    bluff:
+      strategy: random
+diana:
+  name: diana
+  color: '#4c2882'
+  texture: ../assets/textures/marble_violet1.jpeg
+  blendMode: luminosity
+  imgKey: das
+  games:
+    setgame:
+      level: null
+    button96:
+      handicap: null
+felix:
+  name: felix
+  color: '#0e1e76'
+  texture: ../assets/textures/marble_meer1.jpg
+  blendMode: normal
+  imgKey: felix
+  games:
+    setgame:
+      level: null
+    button96:
+      handicap: 3
+    bluff:
+      strategy: random
+    nations:
+      strategy: random
+    sheriff:
+      strategy: random
+    spotit:
+      level: 7
+    ferro:
+      strategy: random
+    aristo:
+      level: 7
+guest:
+  name: guest
+  color: '#002e63'
+  texture: ../assets/textures/marble_blue1.jpeg
+  imgKey: stellers_jay
+  blendMode: normal
+  bg: '#55bc41'
+  games:
+    setgame:
+      level: 7
+    button96:
+      handicap: 3
+    sheriff:
+      strategy: random
+    bluff:
+      strategy: random
+    nations:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: null
+    huti:
+      level: null
+gul:
+  name: gul
+  color: '#283618'
+  texture: ../assets/textures/marble_beige1.jpeg
+  blendMode: luminosity
+  imgKey: leopard
+  games:
+    setgame:
+      level: 7
+    button96:
+      handicap: 3
+    sheriff:
+      strategy: null
+    huti:
+      level: 7
+    accuse:
+      level: 7
+    ferro:
+      strategy: random
+    aristo:
+      level: null
+    bluff:
+      strategy: random
+  fg: '#000000'
+lauren:
+  name: lauren
+  color: '#006c7f'
+  texture: ../assets/textures/marble_blue2.jpeg
+  blendMode: normal
+  imgKey: lauren
+  games:
+    setgame:
+      level: 7
+    button96:
+      handicap: null
+    sheriff:
+      strategy: random
+    fritz:
+      strategy: random
+    bluff:
+      strategy: random
+    aristo:
+      level: 7
+    nations:
+      strategy: random
+mimi:
+  name: mimi
+  color: '#ffe4e1'
+  texture: ../assets/textures/marble_rosa.jpeg
+  blendMode: normal
+  imgKey: mimi
+  games:
+    setgame:
+      level: 7
+    button96:
+      handicap: null
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+mitra:
+  name: mitra
+  color: '#6393f3'
+  imgKey: mitra
+mac:
+  name: mac
+  color: '#f3f666'
+  imgKey: mac
+nasi:
+  name: nasi
+  color: '#f0e78e'
+  imgKey: nasi
+sarah:
+  name: sarah
+  color: '#f494b4'
+  imgKey: sarah
+  games:
+    setgame:
+      level: null
+    button96:
+      handicap: 3
+  texture: ../assets/textures/marble_grey1.jpeg
+  blendMode: luminosity
+sheeba:
+  name: sheeba
+  color: '#c71585'
+  imgKey: sheeba
+valerie:
+  name: valerie
+  color: '#ffff00'
+  imgKey: valerie
+wolferl:
+  name: wolferl
+  color: '#002e63'
+  texture: ../assets/textures/marble_blue1.jpeg
+  blendMode: normal
+  imgKey: billy
+  games:
+    setgame:
+      level: 4
+hallo:
+  name: hallo
+  color: '#f3f66f'
+  imgKey: hallo
+max:
+  name: max
+  color: '#9fc3c0'
+  imgKey: max
+momo:
+  name: momo
+  color: '#663609'
+  imgKey: unknown_user

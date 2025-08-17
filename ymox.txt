@@ -1,0 +1,892 @@
+
+WRS325SDHZ Whirlpool
+
+unsrer: MSS25C4MGZ
+
+
+comparing these two fridge models: WRS325SDHZ, FRSS2623AS with this one: MSS25C4MGZ. How many decibels should I expect? how much of the time do they run the compressors on average? which one is the most reliable?
+
+WRS325SDHZ
+
+Lieber Gilbert,
+
+Gut, ja, ich glaub auch es ist besser bevor weitere unglückliche Ereignisse eintreten und Guggi das Prudential Geld verliert. Die Ärzte hier haben uns schon lange gewarnt, dass Gu keine beruflichen Schritte unternehmen soll, ohne ausdrückliche ärztliche Bestätigung, da dies deren Verpflichtungen aufheben wuerde.
+
+Kennst du einen Anwalt in Wien, der uns mit der Erwachsenenvertretung unterstützen könnte, damit wir auch gleichzeitig den Aufenthaltstitel beantragen können? 
+
+Ich weiß, dass du sehr beschäftigt bist, und möchte dich nicht übermäßig belasten. Aber für rechtliche Beratung bist du definitiv der beste Ansprechpartner, da du dich damit am besten auskennst.
+
+Ein großes Problem in Wien ist die Zeit. Für das 90-Tage-Touristenvisum hat er jetzt nur noch ungefähr die Hälfte. Daher wäre es wichtig, relativ schnell zu handeln. Könnte deine Mutter möglicherweise das mit der Aufenthaltsbewilligung / Elternvertretung beginnen, nachdem ich ja noch eine Zeitlang hierbleiben muss? Sollten wir parallel dazu hier in den USA bereits mit dem Guardianship beginnen?
+
+Alternativ jedoch könnten wir Guggi vielleicht im September zu einem längeren Aufenthalt außerhalb des Schengen-Raums überreden, wo er etwas Angenehmes unternehmen kann, egal wo er hin möchte. Sobald das Haus vermietet ist und seine Sachen in Wien sind, wird er sich über zusätzliches Einkommen freuen und möglicherweise nicht mehr so sehr darauf drängen, hierher nach Redmond zu kommen (seine Umbaupläne für das Haus sind vorübergehend auf Eis gelegt). Selbst wenn er unbedingt nach Redmond fahren will kann er hier was mieten. So könnten wir möglicherweise, wenn wir dann alle wieder in Wien sind, mit der Elternvertretung + Aufenthaltstitel beginnen. Auch Felix ist ab Oktober leichter verfuegbar, da er dann mit dem Studium fertig ist.
+
+Was schlägst du vor, was wir tun sollten, und wer sollte was tun? Wenn du da Zeit investierst, könntest du vielleicht auch eine Belohnung dafür erhalten? Ich weiß, dass du immer sehr bescheiden und hilfsbereit bist, aber gerade Du als der meistbeschaeftigste von uns allen bist halt auch derjenige der es am ehesten zu einem erfolgreichen abschluss bringen kann in Wien. 
+
+Danke und liebe Gruesse,
+
+Angelika
+
+___ 6:03 AM 8/12/2025 airport 51000
+- auf der table sollen die spieler gezeigt werden und auch wer grad dran ist!
+- soll vielleicht der name drueberstehen?
+
+
+
+
+
+
+
+
+___ 6:05 AM 8/11/2025 airport 50000
+ok - cleanup bau
+ok - rem cons
+zuerst drawCard besser machen
+
+___ 7:51 AM 8/10/2025 airport 49000
+es macht nicht wirklich sinn wie ich den card size berechne!
+es geht doch um die cols nicht die rows!
+es geht auch um die rows!
+ok - das mit den patterns stoert immer noch
+waers nicht besser ich haett sowas wie: const patterns
+
+
+
+
+also: 
+- kann ich es so machen dass ich den last valid move zeige???
+- wenn ich selbst ein bot bin: show bot move
+
+
+
+dh. wenn es irgendeinen bot gibt, dann soll dieser nach einer zeitlang ziehen
+2. gamemode
+- solo mode: ich spiele gegen den automa der ein ghost ist
+- team mode: mehrere spielen als derselbe
+- dream mode: zeige mehrere spieler, aber die spieler sind ghosts
+- cooperative: mehrere spielen als derselbe mit ghosts
+ein ghost ist NICHT dasselbe wie ein robot
+robot ist ein normaler spieler
+ghost ist ein persoenlicher interferer
+wie sieht ein ghost aus?
+
+
+
+- start a game cryptid
+___ 6:31 AM 8/9/2025 airport 48000
+___ 6:44 AM 8/8/2025 airport 47000
+ok - mehr abstand zwischen stats und buttons und cards
+ok - cheat button sollte genau zentriert sein oder aber dort wo hint button ist
+ok - font size muss per game setzbar sein zwischen 16 und 24
+ok - du bist dran anzeige fehlt
+ok - bot move soll automatisch sein bei JEDEM spieler!
+simplest:
+- address phone screen size! 411 x 753
+bei 50% ist es 822 x 1506
+- learn using meta viewport!!!!
+<meta name="viewport" content="property=value, property=value, ...">
+<meta name="viewport" content="width=800, user-scalable=yes">
+what means: set width to device width? like, the phone has a width of 415px, the laptop has a width of 1096px. If I make a div with 800px width how will this appear on both?
+___ 6:35 AM 8/7/2025 airport 46000
+___ 5:23 AM 8/6/2025 airport 45000
+ok - buttons groesser, stats groesser
+ok - title ohne _ und groesser
+___ 6:54 AM 8/5/2025 airport 44000
+ok - simplified view!
+ok - nur 1 zeile oben, aber es soll irgendeine methode geben fuer dev mode
+ok - und vielleicht ein logo?
+ok - und your turn anzeigen
+ok - alle spiele weg bis auf set
+ok - primitive bot implement!
+
+___ 6:31 AM 8/4/2025 airport 43000 microsoft
+ok - texture viewer
+ok - such das wo ich die textures gemacht habe
+ok - set: table 4x4 und 4x5 geht garnicht!!!
+ok - 3x3?
+___ 6:14 AM 8/3/2025 airport 42000 amanda felix microsoft
+ok - mach ein plus zu onclickMoreUsers
+ok - table appearance present
+___ 6:06 AM 8/2/2025 airport 41000 amanda felix microsoft
+ok - animate von NoSet button geht nicht!!! (wahrscheinlich kein id)
+ok - rem cons
+ok - rem cons
+ok - goto switchToMenu showGamesAndTables
+___ 6:30 AM 8/1/2025 airport 40000 microsoft
+ok - dPlayers: flexWrap:'wrap'
+ok - auf beiden seiten von den cards sollten button sidebars sein
+ok - aber wenn screen enger ist soll es anders sein
+ok - besser ist: beide drunter!
+ok - wie hab ich die testButtons gemacht?
+ok - button: hint 1 und 2
+ok - ueberpruefe async correct:showGamePlayers
+es sollte eine option decksize und eine option gridsize geben
+decksize 81,12,15,27 (baby),
+gridsize 3x3, 4x5, 4x4, 4x3, 
+brauch keine modes
+nur die players
+___ 6:07 AM 7/31/2025 airport 39000
+ok - kann ich nicht pollMode setzen? manual vs auto?
+ok - handleVisibility
+ok - pollStates weg????
+ok - at the end of no table available soll er zu games zurueckgehen!
+___ 6:39 AM 7/30/2025 airport 38000
+ok - switchToMenu: pollOff(), dann pollOn()
+ok - on am anfang muss 1500!!!!! race sollte 1000 sein!
+ok - TESTING off: 
+ok - goto pollInit
+ok - am anfang soll poll on sein
+ok - openGame Menu macht pollOff
+ok - switchToTable macht pollOn
+ok - wenn poll on ist und ich ein game aufmachen will loescht er alles weg!!!!
+ok - kann ich im games menu sobald ich ein game aufmache poll abdrehen>?
+ok - wie dreht man poll ab?
+=>pollOff
+ok - gameoverScore
+___ 6:22 AM 7/29/2025 airport 37000
+___ 6:04 AM 7/28/2025 airport 36000
+___ 5:47 AM 7/27/2025 airport 35000
+=> kann sein dass jetzt klappt!
+ok - damit nicht so lang warten muss mach doch einen random simulator
+oder irgendeine art dass die fen anders ist sodass ich nicht 24 sets finden muss bis es triggert!
+ok - order vielleicht: jedesmal dass einer ein set bekommt blinkt er kurz auf
+vielleicht:save tables as json???? 
+ok - riesen problem!!!!
+ok - score muss im -1 fall updated werden, aber fen nicht!!!!!!
+ok - goto present: ich muss vorige table noch haben!
+(invalidate gamestate if step > current step)
+___ 6:13 AM 7/26/2025 airport 34000
+ok - es ist heikler!!! falsche moves muessen gemeldet werden!
+ok - auch wenn interfered
+ok - ausserdem wenn ich ein invalid habe dann muss gegner aufblinken
+___ 6:18 AM 7/25/2025 airport 33000
+ok - stats windows center img
+ok - nix geht mehr!!!
+ok- justify weiter
+ok - mCenter
+ok - minuzioese detektivarbeit und perfect code!
+ok - setgame als erstes!
+ok - mPostRoute ersetzen
+ok - stripes fehlen!
+ok - step ueberpruefen ob was tun muss!
+___ 11:53 AM 7/24/2025 airport 32000
+ok - umgestiegen auf neuen lg!
+ok - suche ein ethernet anschluss or amz
+ok - update shipping info
+___ 6:27 AM 7/23/2025 airport 31000
+ok - rem cons
+ok - cleanup files
+___ 5:51 AM 7/22/2025 airport 30000
+=>vio94
+___ 6:39 AM 7/21/2025 airport 29000
+ok - showTables geht immer noch nicht! keys haben gefehlt!
+ok - rem cons
+ok - onclickGameStart 
+ok - reloadTable
+ok - was braucht er fuer delete? owner wahrscheinlich
+ok - jetzt ist das problem dass er realodTable nicht showTable macht!
+ok - elim tData
+ok - consolidate: DA.tData, M.tables, DA.tableList, DA.tid, DA.gameState
+___ 7:02 AM 7/20/2025 airport 28000
+=>ALLES in bau3 nochmal genau ueberpruefen!
+schreibe auf was ist supposed to happen!
+- onclickTable 
+x existiert
+DAGetTable muss nicht unbedingt existieren oder doch?
+ohja eigentlich schon und ist auch dasselbe
+ok - verify dass clientTable == x bei onclickTable
+ok - alles von bau1>bau2 und bau3>bai1
+ok - tableDeleteAll geht nincht wenn in table menu
+ok - onclickGameStart geht nicht!!!
+ok - rem cons
+ok - onclickTableJoin geht jetzt wieder nicht!
+ok - onclickOpenToJoin ist ok
+ok - onclickTableStart ist oben bei der tables list
+___ 6:12 AM 7/19/2025 airport 27000
+ok - ueberlege genau wie alles ablaufen soll
+ok onclickOpenToJoin ist ok
+ok onclickTableStart ist oben bei der tables list
+ok onclickGameStart 
+ok - php action create kann gehen!
+ok - elim DASaveState
+DA.tableList ist ein array mit id
+ok - haengt savey ein '.yaml dran'? JA
+=> MPollTables ladet alle tables die updated wurden!!!koennte ein ganz schoenes bottleneck werden!!!
+ok - rename mPollTables to reloadTables
+ok - riesen problem mit modified!!!
+ok - es gibt friendly bei tableCreate!!!
+ok - friendly und id sollen aber gleich sein!!!!!!
+NEIN: id ist game owner date time, friendly ist place and type of meeting
+so ich muss nicht edesmal friendly neu machen!!!
+1:57 PM 7/19/2025 halfday k -
+ok - ich brauch hasChanges  = modified changed!
+ok - prior weg und dafuer sort keys und return keys only
+ok mach garkeine tableList mehr!!! statt dessen tableKeysSorted
+___ 5:32 AM 7/18/2025 airport 26000
+___ 5:27 AM 7/17/2025 airport 25000
+___ 5:09 AM 7/16/2025 airport 24000
+ok - 10 remove all code to done
+ok - 9 hol mir onclickMove > bau1
+ok - 8 done 218
+ok - 7 table braucht name und modified
+ok - 6 done 16-18: table is NOT updated!
+ok - 5 brauche table.id
+ok - 4 done 533
+=>table braucht status,turn,game,id,modified
+ok - 3 schreibe auf update cycle:
+=>updateMain > updateData > reloadTable returns hasChanges
+ok - 2 wo wird tableSave aufgerufen?
+ok - 1 check alle onclicks in game menu!!!
+___ 4:37 AM 7/15/2025 airport 23000
+ok - DA.pollAvailable wo gesetzt? brauch ich es?
+ok - show pollCounter at each poll
+ok - DA.pollCounter
+ok - DA.pollInterval
+ok - DA.pollState...{color,text,blink,interval,index,ison}
+ok - DA.pollStates...{games:{ON,OFF},table:{ON,OFF}...
+ok - hide: stop polling!
+___ 6:23 AM 7/14/2025 airport 22000
+ok - start live server
+ok - check DA DA.pollState was ist das?
+___ 3:04 AM 7/13/2025 airport 21000
+ok - rem cons updateTable
+ok - clear bau
+ok - use bau1 for polling
+ok - was ist los mit pollOff?
+___ 3:58 AM 7/12/2025 airport 20000
+___ 3:52 AM 7/11/2025 airport 19000
+___ 6:31 AM 7/10/2025 airport 18000
+___ 2:21 AM 7/9/2025 airport 17000
+ok - showMessage
+___ 5:33 AM 7/8/2025 airport 16000
+___ 5:33 AM 7/7/2025 airport 15000
+- problem ist: table.turn missing! =>fix gen setup
+ok - wird setup ueberhaupt aufgerufen?
+=> setTableToStarted
+ok - join,leave,delete, jedesmal ein poll machen auch wenn ich in poll mode bin
+ok - delete
+ok - DAInit: M.Tables MUESSEN geladen werden auch wenn menu table ist!!!!
+ok - wenn ich updateTable mache muss ich returnen ob es ueberhaupt tbles gibt!
+___ 6:27 AM 7/6/2025 airport 14000
+ok - in games koennte ich bei switchToUser oder bei 
+ok - createOpenToJoin: kann ich eine table dazugeben?
+ok >>>- muss ich einfach nur 1 zu M.tables geben??????
+ok - wo wird DA.tableList gesetzt?
+ok - DA.funcs keys werden falsch gesetzt
+ok - deleteAllTables
+ok - trenne tableCreate von tableSave
+ok - bei tableSave erst schicke table zu server,update modified
+ok - each time I write to a table need to update modified!!!
+___  airport 6:09 AM 7/5/2025 13000
+___  airport 6:01 AM 7/4/2025 12000 K3
+ok - consolidate clickOn
+ok - test delete table
+ok - was passiert wenn ich manually polle und durch poll unterbrochen werde?
+=>ist ok!
+=>poll and present 
+- was macht pollAndShow derzeit?
+frage: soll ich wenn ich manually poll UI resetten auf DA.menu?
+choices:
+1 - reset UI bei manual poll
+==>2- manual poll behave exactly like interval poll
+ - dafuer mache einen reset button, der DA.menu neu ladet?
+wie kann ich symbol fuer reload
+was genau hab ich gemacht damit bei switchToUser alles neu macht?
+=>  clearMain(); //triggers rendering
+11:28 AM 6/30/2025
+same! daher returnt er
+ich brauch ein invalidate fuer redraw!
+goto clearMain
+ich sollte nur genau 1 stelle haben an der redraw stattfindet!
+ich sollte eigentlich trennen zwischen render und poll
+=>poll - checkforchanges - render
+weil es kann ja auch andere venues fuer render geben. 
+gibt es rendering ohne poll? macht das ueberhaupt sinn? 
+ja, schon, wenn in solo mode und nicht am backend saven will
+solo oder hotseat mode actually
+das design ist schlecht weil keine trennung
+ok - name of button: DA.bPoll
+ok - goto pollInit
+ok - bPoll is a regular button
+ok - kann ich pollIntervalChanged eliminaten?
+ok - wenn sich die poll art veraendert soll IMMER pollUpdate aufgerufen werden!
+ok ->polling komplett NEU!!!
+ok ->clearMain actually stops polling!!!
+switchToMenu should start polling
+ok - der ganze poll button und das ist eine mess! das muss ich besser ueberlegen
+ok - button fuer pollstart/stop
+ok - wie werden tables updated?
+ok - bei loadassets sollte ich nicht die tables loaden weil das eh bei login passiert!
+ok - codeall 748
+ok - reicht wenn ich datemodified checke
+ok - es waer viel effixienter wenn ich die filenames von den tables plus die spezielle info als erstes polle und 
+die einzelnen tables nur wenn date modified sich geaendert hat!!!!
+ok - done 72
+ok - onclickOpenToJoinGame geht
+ok - test leave game
+ok - wie loese ich das am besten?
+ok - delete table geht nicht!
+ok - er hat die table deleted aber poll tut die tabes NICHT als changed id
+___  airport 5:34 AM 7/3/2025 11000 K3
+ok - compare showUser und showGamePlayers
+ok - rem cons
+ok - DA.pollState: was soll es sein? mit menu oder ohne? es ist ein object
+ok - wieso changed nicht zu bot? value hat gefehlt
+ok - codeall 11894
+ok - rem cons
+ok - immer noch nicht correct wenn solo mode mache! self soll human werden
+ok - wieso macht reload kein poll?
+=>location.reload()
+ok - codeall 756
+ok - wow!!! gamemode vs mode!!!!!!! mode muss weg!
+ok - upload y
+___  airport 5:49 AM 7/1/2025 10000 K3
+ok - switchToMenu code besser!
+ok - test: poll bei games menu
+ok - wieso geht er 2x in switchToMenu?
+ok =>der grund war weil keine ahnung
+ok - chatgpt: Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was receivedUnderstand this error
+ok - what should happen when I do manual poll? pollAndShow ist eigentlich UpdateMain
+ok - wieso werden schon wieder die usernames nicht gezeigt in dem popup?
+___  airport 5:05 AM 6/30/2025 9000 K3
+ok =>get filename including last modified timestamp!
+ok - schau mal ob ich von scandir nicht eh im res.dir all die files mit infos becomment habe?
+ok - SLEEP_WATCHER search in fastcomet oder mag!!!!!
+___ 4:43 AM 6/29/2025 airport 8000 K3
+ok - formatDate upgraden! 
+=>formatDateCompact
+ok - restart live seerver
+ok - delete all - poll funktioniert!
+ok - createToJoin - poll
+ok - onclickTable und onclickGames =>switchToMenu
+ok - user switch poll geht nicht!!!!
+ok - dh nach user switch muss irgendwas aendern! am client!
+ok - got switchToUser
+ok =>DA.table null setzeen geht nicht,
+ok - wieso wird same gesagt? wenn auf games clicke?
+ok - fang mit deleteAll an
+ok - delete geht reloaded aber nicht (das muss eh mit polling gemacht werden!)
+ok - manual polling: poll when pressing poll
+ok - mach einen button fuer manual poll!
+___ 5:43 AM 6/28/2025 airport 7000 K3
+ok - user click
+ok - do not search in legacy*
+ok - generateTableId: game + owner + getNow() ////rUniqueId('_', 7);
+formatDate upgraden! 
+- delete geht reloaded aber nicht (das muss eh mit polling gemacht werden!)
+- manual polling: poll when pressing poll
+- mach einen button fuer manual poll!
+- onclickOpenToJoinGame
+- start a game cryptid
+___ 5:03 AM 6/27/2025 airport 6000 K3 
+mPopupModal
+- goto mPopup
+- test ob das popup schliesst? sollte eigentlich modal sein!
+- bei den game options muessen die users beschraenkt werden! und auch die width
+=>statt mPopup verwende mGather!!!!
+5:24 AM 6/27/2025
+make a user select box using mGather
+- gibt es ein mModal?
+mPrompt, mGadget suchen
+- wie kann man ein popup am besten machen?
+- wie sollte man popup,gather,shield (=modal) am besten org?
+- geh auch noch zu fastcomet. vielleicht gibt es da was mit mPrompt
+___ 5:57 AM 6/26/2025 airport 5000 K4 2.5ok
+ok - layout problem zuerst loesen!!!!!!!
+ok - start
+ok - rem cons
+ok - wo ist dieser poll button?
+ok - remove setTexture
+ok - problem: er entfernt die texture nicht!!!!
+ok - test: lade sheeba
+ok - open copilot
+ok - ich glaub das problem ist wenn ich eine texture habe und einen NEUEN user ohne texture drueberlade
+=>das problem war: bgSize wurde mit '' von styles auf 0px gesetzt!
+ok - wie heit der button. kann ich clickOn('...') machen?
+JA, wow das geht!!!
+- user panel muss ein autogrid sein
+ok - wo wird userpanel gemacht? mPopup 
+=>onclickMoreUser
+ok - open styles.css
+ok - className setting geht nicht mehr!!!
+=>ab sofort muss className in opts gesetzt werden!!!!
+___ 4:57 AM 6/25/2025 airport 4000 K4 tr1.5ok
+ok - wenn ein spiel auswaehle muss es highlighted werden!!!
+ok - gibt es die class highlighted?
+=>framedPicture
+ok - open styles.css
+==>simplify!!! gameitems only outermost should have the gamename, 
+none should have label or prefer!!!!!
+ok - suche findAncestor:
+ok => es gibt evToAttrElem(ev,attr),evToElem(ev,attr),evToAttr(ev,attr)
+ok das macht praktisch findAncestorWithAttribute
+ok - open project
+ok - dMain soll immer eine scrollbar haben
+ok - alles wo Serverdata vorkommt ist noch von node app
+NE STOP- auch alles mit 'route'
+NO- postUsers
+NO- achtung!!!! postusers macht jetzt ein hallo.yaml in php dir!!!
+- ...button anstatt gul
+=>showUserList
+ok - mPopup
+ok - start prog
+___ 6:06 AM 6/24/2025 airport 3000 K4 g=
+___ 5:15 AM 6/23/2025 airport 2000 K4 t6= p1v1va1
+ok - ERROR: Undefined array key "m" in <b>C:\xampp\htdocs\mox\vio96\php\all.php</b> on line <b>42</b><br />
+ok - start liveserver
+ok - schau wo der neue user angelegt wurde
+NO- M.users must be upToDate damit postUsers machen kann
+ok - goto switchToUser
+ok - wieso wird bg nicht updated? beim 2. mal geht es aber nich bei 1. mal!!!
+ok - was ist bei setTheme los????
+keine ahnung was der fehler war!?!
+___ 4:51 AM 6/22/2025 airport 1000 K4 
+ok - find postUsers
+ok - wo soll ein neuer user angelegt werden?
+choices:
+- onclickUser
+- switchToUser
+ok - backend bei login
+bei switchToUser sollte ein sample user mitgeliefert werden!
+dieser wird verwendet falls nicht vorhanden
+updated wird uebrigens falls dieser user 
+ok - wie sieht ein user aus?
+ok - start liveserver
+___ 5:51 AM 6/21/2025 airport 100000 K4 
+ok - check ob users.yaml existiert? JA!
+ok - open mag oder fastcomet fuer das wo man theme aendern kann
+=>mag/free geht wenn nodemon free/app.js mache!!!
+    let key = isdef(M.superdi[name]) ? name : rChoose(Object.keys(M.superdi))
+    res = await postUserChange({ name, color: rChoose(M.playerColors), key });
+ok - 'user posted'
+ok - gibt es ein isWord? isAlphanum
+ok - gibt es ein addUser? NEIN
+ok - gotostyles.css input oder mInput
+___ 5:13 AM 6/20/2025 airport 99000 K4 ~ok
+ok =>username soll genau wie buttons ausschauen!!!
+ok =>user name soll editable sein!!!! (mGather)
+___ 4:59 AM 6/19/2025 airport 98000 K3 t~~
+ein game hat color,friendly,logo,name,game_type
+wenn ich irgendwo anders hin clicke oder esb soll popup closen
+dPlayerOptions
+mach clickOn zeug im start:
+clickOn('Set');clickOn('guest');
+___ 5:15 AM 6/18/2025 airport 97000 K3 t~ok
+open file
+mach nur ein code all
+=>vio96
+showGameMenu
+section class soll nur 10 margin vertically haben
+rem cons users
+6:11 AM 6/18/2025
+=>showTables und showGames soll es NICHT extra geben!!!!!
+=>calls von showTables und showGames muessen WEG aus codeall
+___ 9:16 AM 6/17/2025 airport 96000 K3 t.5
+___ 4:44 AM 6/16/2025 airport 95000 K4
+___ 4:31 AM 6/15/2025 airport 94000 K4
+ich kann href machen
+da kann ich remote or local sagen
+finde heraus welches node das games ist!
+___ 5:27 AM 6/14/2025 airport 93000 K4
+- RHV0
+ich brauche die static assets
+https://www.telecave.net/aroot\base\assets\images/ally.jpg
+nmknmhst as long as im alone im safe no one can hurt me
+no use telling MWHI
+___ 5:44 AM 6/13/2025 airport 92000 K4
+ok - ilms code
+brauch ein neues namensschema! vio99->ball0
+:vio98
+jetzt moecht ich in coding trennen zwischen closure und rest
+splitClosure
+=>next ist: vio98 getServer und detectSession aendern
+=>use API zeug
+___ 5:51 AM 6/11/2025 airport 91000 K4
+omg!!!!! ich muss simple0 verwenden fuer php!!!!!
+just now reduce 
+~/virtualenv/myproject/3.10/bin/pip install flask_socketio
+___ 5:13 AM 6/12/2025 airport 92000 K4
+	let sDirs = stringBefore(loc,'/index.html').split('/'); console.log('sDirs', sDirs);
+	DA.project = stringAfterLast(sDirs,'/'); console.log('project', DA.project);
+eigentlich moecht ich lernen auf einem flughafen zu leben
+das heisst eigentlich let go of people
+das macht schon das leben sinnlos
+menschen sind stressig aber ohne menschen ist das leben auch ziemlich sinnlos oder?
+oder nicht?
+mPhp, mFlask, mNode: returns url for backend
+was ist da los?
+suche ein project bei dem mit php auf games zugegriffen wird!
+___ 6:32 AM 6/10/2025 airport 90000 K4
+___ 5:29 AM 6/9/2025 airport 89000 K4
+dream: ich bin in palma auf ferien. alles ist gut
+___ 5:00 AM 6/8/2025 airport 88000 K4
+1. div mit clip und bg, centerflex
+2. kleiner drauf: svg mit stroke ohne fill pointer-events none
+=>next: andere tesselations fuer das board!
+___ 5:00 AM 6/7/2025 airport 87000 K4
+cryBoard
+- find initAssets
+___ 6:39 AM 6/6/2025 airport 86000 K3
+ok - zimmer fe ist fertig
+was ist mit wikisaves? ich muss es auf LG restoren!
+ok - github allinone
+- github LG
+- RHV
+___ 6:10 AM 6/5/2025 airport 85000 K3
+___ 6:02 AM 6/4/2025 airport lib 13.6. 84000 K3
+___ 4:47 AM 6/3/2025 airport lib 13.6. 83000 K3
+5:01 AM 6/3/2025 
+choices:
+1. noc restart
+2. gc basics of p5
+3. sidebar
+___ 5:59 AM 6/2/2025 airport lib 13.6. 82000 K4
+___ 5:10 AM 6/1/2025 airport lib 13.6. 81000 K4
+wie will ich es machen?!!
+F, muss1L, M=warm+rest F ab 11h muss1L
++1weckerl(kuchen,...),1Eis(schokomini,chips),1kcrs(getraenk) 
+obst,gemuese,suppe,nuesse
+RHzeit verschwinden lassen:
+pro woche 10x
+esn20k bis dann kein input
+20kx10'
+rules:
+___ 5:39 AM 5/31/2025 airport lib 13.6. 80000 K4
+mStyle neu
+zuerst bg fg alpha
+___ 5:28 AM 5/30/2025 airport lib 13.6. 79000 K4
+manual refactor:
+ok - 1. weg mit den broken code
+- 2. kann ich eigentlich dieses zeug wo man all die users und games hat machen?
+- suche code
+___ 5:48 AM 5/29/2251 airport lib 13.6. 78000 K4
+back to sq1
+___ 5:52 AM 5/28/2025 airport lib 13.6. 77000 K4
+meine antwort: eval heutistisch,
+___ 6:19 AM 5/27/2025 airport lib 13.6. 76000 K4
+___ 6:34 AM 5/26/2025 airport lib 13.6. 75000 K4
+___ 6:34 AM 5/25/2025 airport lib 13.6. 74000 K4
+___ 6:12 AM 5/24/2025 airport lib 22.5. 73000 K4
+___ 6:29 AM 5/23/2025 airport lib 22.5. 72000 K4
+is echt ein dream come true!!!!
+translate the following 
+___ 6:58 AM 5/21/2025 airport lib 22.5. 70000 K4
+___ 5:43 AM 5/20/2025 airport lib 22.5. 68000 K4
+___ 4:21 PM 5/19/2025 airport lib 22.5. 66000 K4
+___ 5:24 AM 5/18/2025 airport lib 22.5. 65000 K4
+=>mach alles wieder mit den grundwerten! 
+=>code lacuna
+___ 5:46 AM 5/17/2025 airport lib 22.5. 64000 K4
+ok, jetzt zu den cities
+createHexShapedGrid ist schneller als drawHexBoard
+aber drawHexBoard hat die center dabei, das ist ein vorteil
+___day 2: 10:03 AM 5/17/2025
+5:47 AM 5/17/2025
+- jetzt moecht ich einfach nur das videmo finden das funktioniert mit dem board und so
+ok - 1. die neighbors sollen NUR ids sein
+ok - 2. anstatt boardRows will ich tiles (nur ids!)
+___ 5:29 AM 5/16/2025 airport lib 22.5. 63000 K4
+6:24 AM 5/16/2025
+mach einen kleineren container
+520=sz*2*maxcols+20
+___ 6:14 AM 5/15/2025 airport lib 19.5. 62000 K4
+2:21 PM 5/15/2025 day 2:
+2:50 PM 5/15/2025 was ist der fehler?
+ok soll ich sowas wie msClasses machen?
+msGrid
+ok - soll ich byType machen? ja
+___ 10:57 AM 5/14/2025 airport lib 19.5. 61000 K4
+___ 5:42 AM 5/13/2025 airport lib 19.5. 60000 K4
+___ 5:31 AM 5/12/2025 airport lib 19.5. 59000 K4
+___ 6:34 AM 5/11/2025 airport lib 19.5. 58000 K4
+___ 6:07 AM 5/10/2025 airport lib 19.5. 57000 K4
+___ 6:03 AM 5/9/2025 airport lib 19.5. 56000 K4
+___ 5:17 AM 5/8/2025 airport lib 19.5. 55000 K4
+3capsules
+1. 5:19 AM 5/8/2025 pr
+2. 5:39 AM 5/8/2025 pr
+3. 6:06 AM 5/8/2025 pr
+4. 6:27 AM 5/8/2025 pr
+5. 6:44 AM 5/8/2025 pr
+6. 7:08 AM 5/8/2025 pr
+7. 7:28 AM 5/8/2025 pr
+8. 7:48 AM 5/8/2025 pr
+9,10 8:45 AM 5/8/2025 v
+=>brauche eine pause!
+schaff ich vielleicht noch eine kleine runde? ja wenn es nicht regnet!
+11. 9:31 AM 5/8/2025 v
+12. 10:11 AM 5/8/2025 pr
+13-21. 10:18 PM 5/8/2025 es geht los! w
+22. 1:18 PM 5/8/2025 akh-pr
+- teste mit html!
+ACHTUNG!!!! alles muss zu codebig.js updated werden!!!!!! in Mox
+=>simple0 is updated!!! can eliminate ilms,free,rsgtest0
+think!
+choices:
+1. styling
+2. andere prefers
+=>3. filter function!
+ok! jetzt hab ich ein wunderschoenes viewer ding!
+dicolor ist in assets/dicolor.yaml!
+wenn ich ein m.yaml mache in assets muesste es gehen!
+=>wenn was veraendere muss ich einfach m.yaml updaten!
+___ 5:39 AM 5/7/2025 airport lib 19.5. 54000 K3 v0=>all free!
++4 capsules 2units/capsule
+1. 5:40 AM 5/7/2025 pause
+2. 5:59 AM 5/7/2025 pr
+3. 6:21 AM 5/7/2025 pr
+4. 6:41 AM 5/7/2025 pr	
+5. 7:02 AM 5/7/2025 pr
+6. 7:51 AM 5/7/2025 pr
+7. 8:12 AM 5/7/2025 pr
+8. 8:32 AM 5/7/2025 pr
+9. 8:52 AM 5/7/2025 pr
+10. 9:06 AM 5/7/2025 pr
++2 capsules um 10:45 AM 5/7/2025
+11,12. 10:45 AM 5/7/2025 v 2 units
+13. 11:10 AM 5/7/2025 pr
+14. 11:34 AM 5/7/2025 pr
+15. 11:54 AM 5/7/2025 wapr
+- bessere idee: start from a simple iconviewer
+- open mag
+ok suche den iconviewer!
+ok =>infinite scrolling example
+?soll ich anstatt collections nur noch cats machen?
+___ 6:08 AM 5/6/2025 airport lib 19.5. 53000 K3
+8:47 AM 5/6/2025
+=> start mit: 3 capsules,15 units=5
+=>ziel: stay over 4units/capsule!
+8:50 AM 5/6/2025 v: anziehen,vstretch,tune,schradiek,pi chi,rachm,pagan
+8:51 AM 5/6/2025-
+heute: 
+ok, now add ALL these keys to the unicode symbol dictionary above with the corresponding html code, and then show me the newly sorted symbols dict
+- ich brauch einen guten font!
+:text white_heart &#129293;
+start.js:13 :text black_heart &#128420;
+start.js:13 :text airplane &#9992;
+start.js:13 :text crown &#128081;
+start.js:13 :text check_mark &#10004;
+start.js:13 :text cross_mark &#10060;
+start.js:13 :text pencil &#9999;
+start.js:13 :text writing_hand &#9997;
+start.js:13 :text envelope &#9993;
+start.js:13 :text left_right_arrow &#8596;
+start.js:13 :text up_down_arrow &#8597;
+start.js:13 :text copyright &#169;
+start.js:13 :text registered &#174;
+start.js:13 :text cloud &#9729;
+start.js:13 :text infinity &#9854;
+start.js:13 :text pie &#129383;
+
+___ 5:18 AM 5/5/2025 airport lib 19.5. 51000 K2
+2 capsules: coffee, striezel
+1. 6:50 AM 5/5/2025 pause
+2. 7:02 AM 5/5/2025 v:anziehen,stretch,tune
+3. 7:11 AM 5/5/2025 pause
+4. 7:20 AM 5/5/2025 pr
+5. 7:30 AM 5/5/2025 pr (weiter)
+6. 7:41 AM 5/5/2025 pr (weiter)
+7. 7:50 AM 5/5/2025 pause eigentlich bin jetzt muede
+8. 8:00 AM 5/5/2025 pause noch nicht fertig geplant!
+9. 8:11 AM 5/5/2025 pause! hol mir rat von venice!
+10 8:21 AM 5/5/2025 v: tune, schradiek 2 auf .5 speed
+11 8:31 AM 5/5/2025 v: tune, schradiek 2 auf .5 speed
+12 8:42 AM 5/5/2025 pi: chi, danach rachmaninov
+13 8:52 AM 5/5/2025 pause?
+14 9:03 AM 5/5/2025 pause
+15-18 9:56 AM 5/5/2025 walk
+19 9:56 AM 5/5/2025 akh prog weiter
+20 10:06 AM 5/5/2025 pr
+21 10:16 AM 5/5/2025 pr
+22 10:28 AM 5/5/2025 pr
+23 10:38 AM 5/5/2025 pr
+24 10:42 AM 5/5/2025 walk
+25-28 12:19 PM 5/5/2025 walk
+5 capsules: soup,semmel,kaese,obst,muesli =>28/7=4
+29-32 walk nochmal das ganze!
+33: 2:41 PM 5/5/2025 pr
+___ 5:09 AM 5/3/2025 airport lib 9.5. 50000 K4
+___ 5:02 AM 5/2/2025 airport lib 2.5. 49000 K4
+8:04 AM 5/2/2025
+was will ich als naechstes machen?
+wie kann ich 
+___ 7:09 AM 5/1/2025 airport lib 4.5. 48000 K4
+7:09 AM 5/1/2025
+- favicon
+neuer plan: zuerst py lernen, das ludos und humpack installieren,
+ludwig mindestens kennenlernen.
+dann mein interface machen
+fastcomet NUR noch <30' pro tag investen bis es funktioniert oder bis ich ein neues hab. dann das fastcomet canceln
+___ 4:39 AM 4/30/2025 airport lib 4.5. 47000 K3
+6:54 AM 4/30/2025
+ok - das loading geht jetzt
+- jetzt brauch ich save at serverr
+4:55 AM 4/30/2025
+ok - simple0 updated!!!! und codebase zu at0 copiert!
+ok - safe ist das workspace
+ok - pylibs fuer fe git zeug
+ok - at0 fuer mein current project
+pylibs libraries die installed werden sollen!
+- open htdocs mach subdirs
+- init safe mit nur den essentials und dem .gitignore
+- was soll es geben in safe?
+- wie soll das rsg workspace ausschauen?
+- ich kann ruhig ein rsg subdir haben in htdocs, aber ich lade das workspace extra. es heisst at0
+das andere workspace fuer mein simple project heisst bet0
+ok - goto github
+mach ein neues github project safe das immer den rest code stored
+4:45 AM 4/30/2025
+list projects to go on hd:
+ludos
+gsm
+humpack
+ludwig?
+rsgLastJoined
+rsgtest
+
+source /home3/moxitoon/virtualenv/at0/3.11/bin/activate && cd /home3/moxitoon/at0
+
+___ 5:57 AM 4/29/2025 airport lib 4.5. 46000 K4
+8:24 AM 4/29/2025
+slow down!!!!!!
+delete at0
+AxRjWn77yRK@s7N
+source /home3/moxitoon/virtualenv/test0/3.11/bin/activate && cd /home3/moxitoon/test0
+ source /home3/moxitoon/virtualenv/rsgtest/3.11/bin/activate && cd /home3/moxitoon/rsgtest
+194.233.96.103
+___ 6:22 AM 4/28/2025 airport lib 4.5. 45000 K4
+source /home3/moxitoon/virtualenv/rsgtest/3.11/bin/activate && cd /home3/moxitoon/rsgtest
+
+91.115.0.91
+7:53 AM 4/28/2025
+fang mit ludos an
+erst dann ludwig
+6:56 AM 4/28/2025
+pip install -e C:\D\videmo\pylibs\humpack\code
+pip install -e C:\D\videmo\pylibs\gsm\code
+
+6:34 AM 4/28/2025
+batch create games
+___ 6:18 AM 4/27/2025 airport lib 4.5. 44000 K4vok
+wenn zu mimi change soll TESTING true setzen!
+8:55 AM 4/27/2025
+wenn ich game start clicke dann soll er zu table menu switchen
+play set in real time und schau wie das geht!
+___ 6:33 AM 4/26/2025 airport lib 28.4. 43000 K4
+was sagt die stimme in mir? nein nein nein
+___ 6:17 AM 4/25/2025 airport lib 28.4. 42000 K4vok
+save and VP
+cant I just live my dream and reduce ALL ELSE to a sustainable minimum?!!! then life is easy - and it's short, too
+on-off runden kreis der blinkt oder grauer kreis
+___ 5:30 AM 4/24/2025 airport lib 28.4. 41000 K4
+7:06 AM 4/24/2025
+convert userbutton to editable!
+5:40 AM 4/24/2025
+einheitliche buttons
+'#d4aa70' #
+___ 6:11 AM 4/23/2025 airport lib 28.4. 40000 K5vok
+wenn schon ein menu habe, dann muss ich den button finden dazu und hToggle
+wenn noch keines habe dann muss ich von dem ev das toggle machen um den key zu finden
+7:04 AM 4/23/2025
+1 tag pausieren, dann wait for fe deadline, dann flug buchen falls fe
+___ 6:11 AM 4/22/2025 airport lib 28.4. 39000 xvv*
+___ 6:11 AM 4/21/2025 airport lib 22.4. 38000
+6:54 AM 4/21/2025
+rem cons
+___ 6:00 AM 4/20/2025 airport lib 22.4. 37000
+align-items =>
+___ 5:21 AM 4/19/2025 airport lib 22.4. 36000
+fuerr heute alles erledigt und jetzt kann ich machen was ich will
+als erstes gehen!!!!s
+1000 fur das psd zeug!
+___ 5:23 AM 4/18/2025 airport lib 22.4. 34000
+was will ich ueberhaupt?
+spar:oj,rum,weckerln
+___ 5:11 AM 4/17/2025 airport lib 22.4. 33000
+ich koennt ein poll&show machen
+choices:
+=>1. MPoll... holt nur die daten und updated M
+2. MPoll macht auch ein updateUI
+MGet... MPoll... MSet DAGet... DAPoll... DASet... UPoll... USet... UGet..
+wie geh ich zu ilms zurueck ohne game zu disturben?
+wieviel soll setgame sein?
+set darstellen!
+arrayToYamlFile($o, $path);
+$users = yamlFileToArray(USERS_READ);
+- hol wieder das andere
+- geige spielen
+___ 4:21 AM 4/16/2025 airport lib 22.4. 31000 xa
+ok - phptest geht!
+was will ich jetzt machen? alles ist moeglich!
+billa plus vanillemilch und milch, himbeersaft
+cola 3+3 (eurospar?)
+hofer striezel
+orangen?
+kramuri aufraeumen
+einen striezel kaufen
+___ 4:44 AM 4/15/2025 airport lib 22.4. 30000
+4:45 AM 4/15/2025
+skip dinner sollte auch 1k sein!
+___ 7:04 AM 4/14/2025 airport lib 22.4. 29000 xk!!!
+7:44 AM 4/14/2025
+wie sieht die state machine aus?
+click auf 
+___ 6:46 AM 4/13/2025 airport lib 22.4. 27000 kminv
+6:55 AM 4/13/2025
+- togglebutton mit label!
+hand_fist
+display
+bester plan:
+*4-6h30
+f+prog, dann vp, dann maedi, dann sarah mathe, dann kurze runde, dann aus
+toggleButton mit label!
+___ 5:02 AM 4/12/2025 airport lib 22.4. 26000 kminv
+6:59 AM 4/12/2025
+firstVisibleChild
+wie das polling gehen soll?
+ich sollte auf alle faelle alles manually ohne polling tun koennen!
+vielleicht sollte ich garnie poll stoppen? einfach nur nichts tun
+geht es wenn ich einen state und einen pollState habe?
+uiState: manual, auto(=polling)
+state: idle,busy
+pollState: on,off
+tableState: mymove,othermove,over,open
+menuState: lobby,table,
+___ 5:32 AM 4/11/2025 airport lib 22.4. 25000 kminv
+6:03 AM 4/11/2025 SLOW DOWN!!!
+- delete all tables holen und in mox0 integrieren!
+ok damit hat es sich
+was jetzt?
+ein spiel muss her!
+wie mach ich set?
+wie hab ich es mit dem step/devalidate gemacht?
+___ 5:30 AM 4/10/2025 airport lib 15.4. 24000 kminv
+6:10 AM 4/10/2025
+moecht einen togglebutton seelenfrieden heisst sterben. sterben kann ich nur in der mnusik oder math oder creativitaet aber niemals bei menschen oder in der 3D welt.
+5:40 AM 4/10/2025
+- nur mit php! muss doch gehen!
+___ 5:30 AM 4/9/2025 airport lib 15.4. 24000 xkv0
+___ 6:50 AM 4/8/2025 airport lib 15.4. 22000 xkvok
+8:36 AM 4/8/2025 muede
+muede sehr sehr muede
+___ 5:36 AM 4/7/2025 airport lib 15.4. 21000
+6:14 AM 4/7/2025
+- consolidate getServer
+- integrate list_files.php: vendor dir ist das problem!!!
+5:53 AM 4/7/2025
+es soll definitiv ohne node js laufen!
+aber fuer spiel brauch ich den gameserver
+___ 6:39 AM 4/6/2025 airport lib 15.4. 20000
+5:45 PM 4/6/2025
+<div class="colorbox" datacolor="#ff878d" style="padding: 10px; background: rgb(255, 135, 141); color: rgb(0, 0, 0); cursor: pointer;">tulip</div>
+
+
+
+
+
+
+
+
+
+
+
+

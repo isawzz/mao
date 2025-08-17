@@ -1,0 +1,26 @@
+
+- route: delete_games
+
+mach ein mini aristo
+ich will ja erstmal was darstellen
+zB ein kartenspiel
+- deck zu
+- deck offen
+- hand splayed left,right,up,down
+- hand wie market
+
+else erstes wieder ueberhaupt cards darstellen!
+dazu brauch ich zB 
+
+der server soll die possible moves immer in compakte set verwandeln
+1. function die aus mehreren list_of_dicts lists von kompact sets macht
+
+beispiel: 
+possible moves: [a,b]x[1,2] + [c,d]x[3]x[4,5]
+
+- what is next? choices:
+1. ich moecht ein board darstellen koennen
+2. ich moecht eine liste: possible moves darstellen koennen
+3. ich moecht darstellen koennen wer drankommt
+
+

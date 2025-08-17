@@ -1,0 +1,31 @@
+newest_:
+  - lasagna
+snacks:
+  - potato_chips
+  - fruit_salad
+salads:
+  - chinoa_bean_salad
+  - tofu_salad
+  - springmix
+soups:
+  - lentil_soup
+  - tomato_soup
+  - hungarian_bean_soup
+  - mushroom_soup
+main_dishes:
+  - lentil_soup
+  - lasagna
+  - pizza
+  - comfort_pasta
+  - chickpea_curry
+  - chinoa_bean_salad
+  - vegan_duck
+sides:
+  - roasted_veggies
+  - baked_potato
+desserts:
+  - fruit_salad
+  - ice_cream
+  - chocolate_cake
+basics:
+  - yogurt

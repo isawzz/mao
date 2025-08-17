@@ -1,0 +1,12 @@
+
+source /home3/moxitoon/virtualenv/at0/3.11/bin/activate && cd /home3/moxitoon/at0
+
+_______ socket.io
+disconnect Event Parameters
+reason can be one of:
+"transport close" — client closed tab, lost connection, etc.
+"ping timeout" — lost heartbeat
+"client namespace disconnect" — socket.disconnect() was called from client
+"server namespace disconnect" — server called socket.disconnect()
+
+

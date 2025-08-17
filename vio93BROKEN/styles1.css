@@ -1,0 +1,169 @@
+
+:root {
+  --stripe-color: violet;
+}
+
+.nav {
+  background-color: var(--bgNav) !important;
+  color: var(--fgButton);
+}
+
+.nav-link {
+  background-color: var(--bgButton);
+  color: var(--fgButton);
+  padding: 0px 8px;
+  box-sizing: border-box;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  color: var(--fgButtonHover) !important;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.sticky+.content,
+.understicky {
+  padding-top: 60px;
+}
+
+
+
+@media (max-width: 600px) {
+
+  html,
+  body {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+
+  .section,
+  .instruction,
+  .gallery,
+  .gallery0 {
+    width: 100%;
+    padding: 4px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    font-size: 1em;
+  }
+
+  .sticky {
+    height: 48px;
+    padding-top: 0;
+  }
+
+  .button_container {
+    flex-direction: column;
+    gap: 6px;
+    padding: 2px;
+  }
+
+  .hex-wrapper {
+    width: 120px;
+    height: 104px;
+  }
+
+  .label {
+    font-size: 12px;
+  }
+
+  /* Add more selectors as needed for your UI */
+}
+
+.flexRCcontainer {
+  display: flex;
+  flex-direction: row;
+  /* Default: horizontal */
+  gap: 1rem;
+  /* Optional spacing */
+}
+
+@media (max-width: 800px) {
+  .flexRCcontainer {
+    flex-direction: column;
+    /* On small screens: vertical */
+  }
+}
+
+.flexRCbox {
+  flex: 1;
+  /* padding: 1rem; */
+  /* background: lightgray; */
+  text-align: center;
+}
+
+
+
+.velvet {
+  position: relative;
+  background-image: url('../assets/tnew/vg2.png');
+  /* your green velvet image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.velvet::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: var(--velvet-color);
+  mix-blend-mode: color;
+  /* or another mode */
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Ensure children are above the overlay */
+.velvet>* {
+  position: relative;
+  z-index: 1;
+}
+
+
+.card-shape {
+  stroke-width: 4;
+}
+
+.red-striped {
+  --stripe-color: red;
+  stroke: #8b0000;
+}
+
+.blue-striped {
+  --stripe-color: #007bff;
+  stroke: #004085;
+}
+
+.green-striped {
+  --stripe-color: #28a745;
+  stroke: #155724;
+}
+
+.striped {
+  fill: url(#striped);
+  color: blue;
+}
+
+.blue-solid {
+  fill: #a0d8f0;
+  stroke: #005a87;
+}
+
+.green-solid {
+  fill: #b0e0b0;
+  stroke: #006400;
+}

@@ -1,0 +1,24 @@
+
+.velvet-overlay {
+  width: 100%;
+  /* //height: 100vh; or your desired size */
+  background-image: url('../assets/tnew/vg2.png'); /* your green velvet image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  border-radius: 50%;
+  overflow:'hidden';
+}
+
+.velvet-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: var(--velvet-color); /* Use the CSS variable */
+  /* background-color: #2980b9; your desired blue */
+  mix-blend-mode: color;
+  pointer-events: none;
+  border-radius: 50%;
+  overflow:'hidden';
+}
